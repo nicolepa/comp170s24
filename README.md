@@ -1,2 +1,3 @@
-# comp170s24
-COMP 170 S24
+# COMP 170 S24
+
+Main repository for class work.
