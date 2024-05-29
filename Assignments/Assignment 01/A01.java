@@ -17,5 +17,5 @@
 public class A01 {
     public static void main(String[] args) {
         // YOUR CODE HERE
-    }
-}
+    } // method main
+} // class A01
