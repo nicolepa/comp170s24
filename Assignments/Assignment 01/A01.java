@@ -1,6 +1,6 @@
 /*
- * Use the starter code below to write a program that has variables for the following
- * information:
+ * Use the starter code below to write a program that assigns values to three
+ * variables for the following information:
  *  - your first name,
  *  - your favorite movie, and
  *  - your hometown
