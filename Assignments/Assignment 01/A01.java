@@ -2,7 +2,7 @@
  * Use the starter code below to write a program that has variables for the following
  * information:
  *  - your first name,
- *  - your favorite movie,
+ *  - your favorite movie, and
  *  - your hometown
  * Then use the variables above to produce the following output with the underlined 
  * parts indicating data specific to you, stored in the variables you created.
