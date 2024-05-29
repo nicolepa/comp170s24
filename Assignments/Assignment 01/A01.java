@@ -10,6 +10,8 @@
  * Hello, my name is Frodo, I am from Hobbiton, and my favorite movie is Young Frankenstein
  *                   -----            --------                           ------------------
  * 
+ * DO NOT USE any tools that require to be imported, ie, do not use the import command.
+ *
  * To save this assignment, make sure you commit your changes to your GitHub repository,
  * following the instructions in Sakai. IF YOU DO NOT COMMIT THE CHANGES, IT IS POSSIBLE THAT
  * YOUR WORK MAY BE LOST AND YOU MAY HAVE TO START ALL OVER AGAIN.
