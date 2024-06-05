@@ -18,6 +18,16 @@
  */
 public class A01 {
     public static void main(String[] args) {
-        // YOUR CODE HERE
+        // variable to store my first name
+        String myFirstName = "NYJ";
+        // variable to store my hometown
+        String myHometown = "Stillwater";
+        //variable to store my favorite movie
+        String myFavMovie = "Harry Potter and the Order of the Phoenix";
+
+        // print out my personal message
+        System.out.printf("Hello, my name is %1$s," + "I am from %2$s," +
+            "and my favorite movie is %3$s", myFirstName, myHometown, myFavMovie);
+
     } // method main
 } // class A01
