@@ -26,8 +26,8 @@ public class A01 {
         String myFavMovie = "Harry Potter and the Order of the Phoenix";
 
         // print out my personal message
-        System.out.printf("Hello, my name is %1$s," + "I am from %2$s," +
-            "and my favorite movie is %3$s", myFirstName, myHometown, myFavMovie);
+        System.out.printf("Hello, my name is %1$s, " + "I am from %2$s, " +
+            "and my favorite movie is %3$s.%n", myFirstName, myHometown, myFavMovie);
 
     } // method main
 } // class A01
